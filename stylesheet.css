@@ -1,0 +1,40 @@
+
+        body {
+text-align: center;
+background-image: url('https://us.123rf.com/450wm/lightfieldstudios/lightfieldstudios1810/lightfieldstudios181038744/110595693-flat-lay-with-arranged-bread-loafs-and-wheat-on-grey-tabletop.jpg?ver=6'); 
+   background-repeat: no-repeat; 
+   background-attachment: fixed; 
+   background-size: cover; 
+   height: 290px; 
+   width: 1331px; 
+   padding-top: 20px; 
+   padding-bottom: 50px;
+   border: 2px inset black; 
+   border-radius: 10px;
+} 
+            h2 {color: rgb(87, 66, 20);
+                font-size: 25px; 
+            }
+            h1 {color: rgb(87, 66, 20);
+                font-size: 30px; 
+            } 
+            img {width:400px; 
+                border: 1px inset black; 
+                border-radius: 10px;
+                padding: 1px; 
+            } 
+            .thirdDiv {
+                height: 900px;
+                width: 1223spx;
+                background-image: url('https://us.123rf.com/450wm/lightfieldstudios/lightfieldstudios1810/lightfieldstudios181038744/110595693-flat-lay-with-arranged-bread-loafs-and-wheat-on-grey-tabletop.jpg?ver=6'); 
+                background-repeat: no-repeat; 
+                background-size: cover; 
+                background-attachment: fixed;
+                padding: 50px;
+                border: 2px inset black;
+                border-radius: 10px;      
+            } 
+            #spanId {
+                font-size: 18px; 
+                margin: 50px; 
+            }
